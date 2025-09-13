@@ -59,7 +59,7 @@ grade ="A+"
 print("hello iam " +   name +" ,i secured "+ score+" ,iam in "+ grade)
 
 
-name ="prem kumar"
+name ="Adhitya harshith"
 score ="92"
 grade ="A+"
 print(f"hello {name},you scored{score}%,and got {grade}")
