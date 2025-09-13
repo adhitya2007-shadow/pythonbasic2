@@ -32,7 +32,7 @@ age=17
 college="mrdu"
 print(f"hello {name},your age is {age}")
 
-name="prem kumar"
+name="adhitya harshith"
 age=18
 print("hello {} your {}years old!".format(name,age))
 print("hello {} your age is{}".format("prem kumar",18))
